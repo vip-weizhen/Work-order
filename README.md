@@ -1,7 +1,7 @@
 # Work-order
 一个用php搭建的工单发布系统
 
-![](https://github.com/vip-weizhen/Work-orde/raw/main/1.png)  
+![](https://raw.githubusercontent.com/vip-weizhen/Work-order/refs/heads/main/1.png)    
 
 
 主要功能：
@@ -16,7 +16,7 @@
 
 
 
-![](https://github.com/vip-weizhen/Work-orde/raw/main/2.png)
+![](https://raw.githubusercontent.com/vip-weizhen/Work-order/refs/heads/main/2.png)      
 
 
 2.员工
@@ -28,4 +28,4 @@
 2.3 员工接收工单后可以退回工单，释放的工单其他员工可以再次接收。
 
 
-![](https://github.com/vip-weizhen/Work-orde/raw/main/3.png)  
+![](https://raw.githubusercontent.com/vip-weizhen/Work-order/refs/heads/main/3.png)      
